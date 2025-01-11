@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Md. Nafiz Imam Zilani</h1>
-<h3 align="center">I'm a Cloud Engineer, DevOps Enthusiasm & Developer</h3>
+<h3 align="center">I'm a Software Engineer | DevOps Enthusiast | Cloud Engineer</h3>
 
 - 🌱 I’m currently learning **DevOps**
 
